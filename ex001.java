@@ -1,7 +1,7 @@
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.*;
  
-    public class DIO{
+    public class ex001{
 
 	// TODO: complete os espaços em branco com sua solução para o problema
  
