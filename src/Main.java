@@ -1,3 +1,5 @@
+package src;
+
 import src.br.com.dio.desafio.dominio.Bootcamp;
 import src.br.com.dio.desafio.dominio.Curso;
 import src.br.com.dio.desafio.dominio.Dev;
